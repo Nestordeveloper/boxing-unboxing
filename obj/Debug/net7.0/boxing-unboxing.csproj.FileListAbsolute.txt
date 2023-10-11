@@ -1,0 +1,14 @@
+C:\Users\snela\Desktop\boxing-unboxing\bin\Debug\net7.0\boxing-unboxing.exe
+C:\Users\snela\Desktop\boxing-unboxing\bin\Debug\net7.0\boxing-unboxing.deps.json
+C:\Users\snela\Desktop\boxing-unboxing\bin\Debug\net7.0\boxing-unboxing.runtimeconfig.json
+C:\Users\snela\Desktop\boxing-unboxing\bin\Debug\net7.0\boxing-unboxing.dll
+C:\Users\snela\Desktop\boxing-unboxing\bin\Debug\net7.0\boxing-unboxing.pdb
+C:\Users\snela\Desktop\boxing-unboxing\obj\Debug\net7.0\boxing-unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snela\Desktop\boxing-unboxing\obj\Debug\net7.0\boxing-unboxing.AssemblyInfoInputs.cache
+C:\Users\snela\Desktop\boxing-unboxing\obj\Debug\net7.0\boxing-unboxing.AssemblyInfo.cs
+C:\Users\snela\Desktop\boxing-unboxing\obj\Debug\net7.0\boxing-unboxing.csproj.CoreCompileInputs.cache
+C:\Users\snela\Desktop\boxing-unboxing\obj\Debug\net7.0\boxing-unboxing.dll
+C:\Users\snela\Desktop\boxing-unboxing\obj\Debug\net7.0\refint\boxing-unboxing.dll
+C:\Users\snela\Desktop\boxing-unboxing\obj\Debug\net7.0\boxing-unboxing.pdb
+C:\Users\snela\Desktop\boxing-unboxing\obj\Debug\net7.0\boxing-unboxing.genruntimeconfig.cache
+C:\Users\snela\Desktop\boxing-unboxing\obj\Debug\net7.0\ref\boxing-unboxing.dll
